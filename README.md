@@ -6,6 +6,6 @@ https://www.youtube.com/watch?v=Iur1cDMxBBQ
 
 ## Run:
 
-` python3 instagram_reset_pw_hack.py `
+` python3 instagram_reset_pw_send.py `
 
 ** For educational use only, bug bounty **
