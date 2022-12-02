@@ -1,4 +1,4 @@
-# How hackers used the internal, depcreciated instagram HTTP methods to hack instagram accounts
+# How hackers used the internal, depreciated instagram HTTP methods to hack instagram accounts
 
 ## Watch:
 
